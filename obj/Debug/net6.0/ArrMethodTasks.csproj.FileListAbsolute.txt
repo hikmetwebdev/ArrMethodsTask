@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\ConsoleApp3\ArrMethodTasks\bin\Debug\net6.0\ArrMethodTasks.exe
+C:\Users\User\source\repos\ConsoleApp3\ArrMethodTasks\bin\Debug\net6.0\ArrMethodTasks.deps.json
+C:\Users\User\source\repos\ConsoleApp3\ArrMethodTasks\bin\Debug\net6.0\ArrMethodTasks.runtimeconfig.json
+C:\Users\User\source\repos\ConsoleApp3\ArrMethodTasks\bin\Debug\net6.0\ArrMethodTasks.dll
+C:\Users\User\source\repos\ConsoleApp3\ArrMethodTasks\bin\Debug\net6.0\ArrMethodTasks.pdb
+C:\Users\User\source\repos\ConsoleApp3\ArrMethodTasks\obj\Debug\net6.0\ArrMethodTasks.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ConsoleApp3\ArrMethodTasks\obj\Debug\net6.0\ArrMethodTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ConsoleApp3\ArrMethodTasks\obj\Debug\net6.0\ArrMethodTasks.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ConsoleApp3\ArrMethodTasks\obj\Debug\net6.0\ArrMethodTasks.AssemblyInfo.cs
+C:\Users\User\source\repos\ConsoleApp3\ArrMethodTasks\obj\Debug\net6.0\ArrMethodTasks.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp3\ArrMethodTasks\obj\Debug\net6.0\ArrMethodTasks.dll
+C:\Users\User\source\repos\ConsoleApp3\ArrMethodTasks\obj\Debug\net6.0\refint\ArrMethodTasks.dll
+C:\Users\User\source\repos\ConsoleApp3\ArrMethodTasks\obj\Debug\net6.0\ArrMethodTasks.pdb
+C:\Users\User\source\repos\ConsoleApp3\ArrMethodTasks\obj\Debug\net6.0\ArrMethodTasks.genruntimeconfig.cache
+C:\Users\User\source\repos\ConsoleApp3\ArrMethodTasks\obj\Debug\net6.0\ref\ArrMethodTasks.dll
